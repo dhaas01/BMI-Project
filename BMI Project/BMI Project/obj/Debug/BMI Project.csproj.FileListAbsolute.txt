@@ -1,0 +1,10 @@
+E:\In Class Projects\BMI Project\BMI Project\bin\Debug\BMI Project.exe.config
+E:\In Class Projects\BMI Project\BMI Project\bin\Debug\BMI Project.exe
+E:\In Class Projects\BMI Project\BMI Project\bin\Debug\BMI Project.pdb
+E:\In Class Projects\BMI Project\BMI Project\obj\Debug\BMI Project.csprojAssemblyReference.cache
+E:\In Class Projects\BMI Project\BMI Project\obj\Debug\BMI_Project.Form1.resources
+E:\In Class Projects\BMI Project\BMI Project\obj\Debug\BMI_Project.Properties.Resources.resources
+E:\In Class Projects\BMI Project\BMI Project\obj\Debug\BMI Project.csproj.GenerateResource.cache
+E:\In Class Projects\BMI Project\BMI Project\obj\Debug\BMI Project.csproj.CoreCompileInputs.cache
+E:\In Class Projects\BMI Project\BMI Project\obj\Debug\BMI Project.exe
+E:\In Class Projects\BMI Project\BMI Project\obj\Debug\BMI Project.pdb
